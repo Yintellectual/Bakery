@@ -1,0 +1,12 @@
+1. The whole story
+
+The Baker made a cake which is 10 inch size, whipping cream, decorated with flower. The baker took a photo on it, then open my APP, ready to upload it. 
+The baker first select the photo from the gallery, then fill in some key information: 
+The base price plan is selected between whipping cream/no-dairy cream, the extra charge is selected from a list of items like crown, flower, cherry, etc.
+The baker then add tags to the cake, the tags should be editable from the customer view. 
+The baker click submit.
+
+A customer comes in, the baker show her the customer view. She wants a cake for an elder's birthday, so she multi-select the tag "elder", "birthday". 
+She prefers a cake with a crown, but she find it is expensive. The customer view tells her it was the crown which worth 20 yuans. 
+
+
